@@ -1,4 +1,4 @@
-# Matriz
+# Exibição de elementos de uma matriz de forma recursiva
 
 A função "exibirMatriz" utiliza 2 parâmetros para acompanhar a posição atual na matriz (linha, coluna), e recebe como entrada o número de linhas e colunas inseridas pelo usuário que pode ser acessada utilizando "matriz.lenght";
 
